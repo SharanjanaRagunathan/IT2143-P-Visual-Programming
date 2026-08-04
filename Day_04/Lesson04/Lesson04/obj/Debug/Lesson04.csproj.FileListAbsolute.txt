@@ -1,0 +1,14 @@
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\bin\Debug\Lesson04.exe.config
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\bin\Debug\Lesson04.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\bin\Debug\Lesson04.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\obj\Debug\Lesson04.csprojAssemblyReference.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.CoreCompileInputs.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\obj\Debug\Lesson04.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 04\Lesson04\Lesson04\obj\Debug\Lesson04.pdb
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\bin\Debug\Lesson04.exe.config
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\bin\Debug\Lesson04.exe
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\bin\Debug\Lesson04.pdb
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.AssemblyReference.cache
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.CoreCompileInputs.cache
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\obj\Debug\Lesson04.exe
+C:\Users\shara\Desktop\Visual Programming(P)\Day_04\Lesson04\Lesson04\obj\Debug\Lesson04.pdb
