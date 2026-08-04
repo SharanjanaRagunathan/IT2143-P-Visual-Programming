@@ -1,0 +1,12 @@
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\Lesson05.exe.config
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\Lesson05.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\Lesson05.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\MathLibrary.dll
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\MathLibrary.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\obj\Debug\Lesson05.csprojAssemblyReference.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\obj\Debug\Lesson05.csproj.CoreCompileInputs.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\obj\Debug\Lesson05.csproj.CopyComplete
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\obj\Debug\Lesson05.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\obj\Debug\Lesson05.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\StringLibrary.dll
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\Lesson05\Lesson05\bin\Debug\StringLibrary.pdb

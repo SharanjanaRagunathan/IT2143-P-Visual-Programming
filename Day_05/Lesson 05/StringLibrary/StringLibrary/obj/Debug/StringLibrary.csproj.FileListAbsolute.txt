@@ -1,0 +1,5 @@
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\StringLibrary\StringLibrary\bin\Debug\StringLibrary.dll
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\StringLibrary\StringLibrary\bin\Debug\StringLibrary.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\StringLibrary\StringLibrary\obj\Debug\StringLibrary.csproj.CoreCompileInputs.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\StringLibrary\StringLibrary\obj\Debug\StringLibrary.dll
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\StringLibrary\StringLibrary\obj\Debug\StringLibrary.pdb
