@@ -1,0 +1,7 @@
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\bin\Debug\Lesson03.exe.config
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\bin\Debug\Lesson03.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\bin\Debug\Lesson03.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\obj\Debug\Lesson03.csprojAssemblyReference.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\obj\Debug\Lesson03.csproj.CoreCompileInputs.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\obj\Debug\Lesson03.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 03\Lesson03\Lesson03\obj\Debug\Lesson03.pdb
