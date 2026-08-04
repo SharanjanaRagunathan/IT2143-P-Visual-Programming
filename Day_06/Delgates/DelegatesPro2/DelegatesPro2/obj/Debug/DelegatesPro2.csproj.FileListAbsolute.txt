@@ -1,0 +1,6 @@
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\bin\Debug\DelegatesPro2.exe.config
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\bin\Debug\DelegatesPro2.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\bin\Debug\DelegatesPro2.pdb
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\obj\Debug\DelegatesPro2.csproj.CoreCompileInputs.cache
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\obj\Debug\DelegatesPro2.exe
+D:\# UoV\# Semi 01\Yr 2\Visual Programming\Lectures\Lesson 05\DelegatesPro2\DelegatesPro2\obj\Debug\DelegatesPro2.pdb
